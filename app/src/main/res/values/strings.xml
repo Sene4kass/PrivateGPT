@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PrivateGPT</string>
+    <string name="hello_text">WELCOME!</string>
+    <string name="developer_text">Developed by Sene4ka</string>
+    <string name="login_text">Login</string>
+    <string name="enter_the_question">Please, enter the question...</string>
+    <string name="send_text">Send</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="Sign_Out">Sign Out</string>
+    <string name="signInFailedNotification">Sorry! Your login or password not valid!</string>
+</resources>

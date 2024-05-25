@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "673267674009",
+    "project_id": "privategpt4-38d54",
+    "storage_bucket": "privategpt4-38d54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673267674009:android:044d64107a86c605168108",
+        "android_client_info": {
+          "package_name": "com.sene4ka.privategpt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASGYuCEGR34KYxBcX8O-K0UFn3i0sUhXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
